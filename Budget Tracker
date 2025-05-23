@@ -1,8 +1,11 @@
 # Budget Tracker
 
-This project is a Personal Budget Tracker created using **Google Sheets (or Microsoft Excel), designed to monitor and manage personal finances throughout the year. The tracker includes categorized monthly income and expenses, automated calculations for totals and net income, and a 3D pie chart to visually display monthly spending distribution.
+This project is a Personal Budget Tracker created using **Google Sheets (or Microsoft Excel), designed to monitor and 
+manage personal finances throughout the year. The tracker includes categorized monthly income and expenses, automated 
+calculations for totals and net income, and a 3D pie chart to visually display monthly spending distribution.
 
-This project demonstrates independent initiative to apply spreadsheet and data visualization skills for personal financial planning.
+This project demonstrates independent initiative to apply spreadsheet and data visualization skills for personal 
+financial planning.
 
 ---
 
@@ -84,7 +87,8 @@ This project demonstrates independent initiative to apply spreadsheet and data v
 
 ## Contributing
 
-This project was developed as a personal financial tool. Contributions are not currently accepted, but feel free to fork or suggest improvements via GitHub Issues.
+This project was developed as a personal financial tool. Contributions are not currently accepted, but feel free to fork 
+or suggest improvements via GitHub Issues.
 
 ---
 
