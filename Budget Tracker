@@ -1,1 +1,97 @@
+# Budget Tracker
+
+This project is a Personal Budget Tracker created using **Google Sheets** (or Microsoft Excel), designed to monitor and manage personal finances throughout the year. The tracker includes categorized monthly income and expenses, automated calculations for totals and net income, and a 3D pie chart to visually display monthly spending distribution.
+
+This project demonstrates independent initiative to apply spreadsheet and data visualization skills for personal financial planning.
+
+---
+
+## Project Objective
+
+- Track monthly income and expenses across various categories (e.g., Rent, Food, Utilities, Entertainment)
+- Automatically calculate:
+  - Monthly totals
+  - Net income (Income – Expenses)
+  - Annual summaries
+- Create a 3D pie chart to visualize the distribution of monthly expenses
+- Demonstrate spreadsheet logic and formula application
+
+---
+
+## Technologies Used
+
+- Google Sheets or Microsoft Excel
+- Spreadsheet features:
+  - Cell formulas 
+  - Absolute/relative references
+  - Charts (3D Pie Chart)
+  - Conditional formatting 
+
+---
+
+## Features
+
+- Income & Expense Table
+  - Monthly breakdown with customizable categories
+- Net Income Calculation
+  - Auto-updates based on input changes
+- 3D Pie Chart
+  - Represents monthly spending visually by category
+- Annual Summary
+  - Shows trends in income vs. expenses over 12 months
+
+---
+
+## Installation Instructions
+
+### Google Sheets:
+1. Click on the shared link 
+2. Go to `File → Make a Copy` to edit your own version
+3. Begin entering your income and expenses in the input cells
+
+### Microsoft Excel:
+1. Download the `.xlsx` file from this repository
+2. Open the file using Microsoft Excel 2016 or newer
+3. Start customizing your monthly entries
+
+---
+
+## Usage Examples
+
+- Enter your monthly salary under "Income"
+- Add your spending in categories like Rent, Food, Entertainment
+- Check the Net Income row to monitor your balance
+- Review the Pie Chart to quickly see where most of your money goes
+
+---
+
+## Future Development Plans
+
+- Add a monthly savings tracker
+- Include debt and loan payment sections
+- Implement goal tracking for specific financial goals
+
+---
+
+## Skills Demonstrated
+
+- Spreadsheet design and layout
+- Use of cell formulas and functions
+- Data visualization through charts
+- Organization and clarity in presentation
+
+---
+
+## Contributing
+
+This project was developed as a personal financial tool. Contributions are not currently accepted, but feel free to fork or suggest improvements via GitHub Issues.
+
+---
+
+## 📄 License
+
+This project may be shared or adapted for personal use, but not for commercial redistribution.
+
+---
+
 
